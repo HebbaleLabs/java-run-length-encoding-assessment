@@ -3,7 +3,19 @@ package com.talfinder.assessment;
 public class RunLengthEncoder {
 
   public static String encode(String input) {
-    return null;
+    /*
+     * NOTE:
+     * 1. Write your solution within this method
+     * 2. Do not make changes to the Class Name, Method Name or Method Signature
+     * 3. Run the command Run-Java to run main method
+     * 4. Use the BuildAndRunTests command to evaluate your solution
+     */
+    String output = null;
+    return output;
   }
-
+  
+  public static void main(String[] args) {
+    String encodedOutput = encode("aabbcca");
+    System.out.println(encodedOutput);
+  }
 }
