@@ -10,7 +10,7 @@ public class RunLengthEncoder {
      * 3. Use the Run-Java command to run main method
      * 4. Use the BuildAndRunTests command to evaluate your solution
      */
-    String output = null;
+    String output = "a2b2c2a1";
     return output;
   }
   
